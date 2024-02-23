@@ -1,0 +1,10 @@
+THIS APPLICATION REQUIRES SELENIUM V3.141, CHROMEDRIVER, AND THE METAMASK CRX INSTALLED IN THE CORRECT LOCATION
+
+RUN THE INSTALLS.BAT FILE TO INSTALL THE REST OF THE MODULES REQUIRED FOR THE PROGRAM TO COMPILE
+
+to install selenium open command prompt and enter "pip install selenium==3.141" and hit enter.
+if you already have selenium installed enter "pip uninstall selenium" and then enter "pip install selenium==3.141".
+
+To install chromedriver and metamask.crx, open the required applications folder and copy the chromedriver and metamask.crx file
+navigate to the C drive and paste the files under Program Files(x86).
+
